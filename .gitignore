@@ -1,6 +1,4 @@
 src/massive/**/__pycache__/*
-*~
-<<<<<<< HEAD
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -139,7 +137,10 @@ dmypy.json
 
 *.ipynb
 # use for example ``!demo.ipynb`` to avoid ignoring specific notebooks
-=======
+
 *.pyc
 *.swp
->>>>>>> upstream/main
+
+.idea/
+__pycache__/
+.DS_Store
